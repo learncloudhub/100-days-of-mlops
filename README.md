@@ -24,7 +24,6 @@ The goal of this challenge is to build a strong foundation in MLOps by practicin
 ├── day-03/
 │   ├── README.md
 │   ├── notes.md
-│   ├── requirements.in
 │   └── requirements.txt
 │
 └── README.md
@@ -51,7 +50,7 @@ The goal of this challenge is to build a strong foundation in MLOps by practicin
 
 ## 🎯 Goal
 
-Complete the entire **100 Days of MLOps Challenge** while documenting everything I learn through notes, labs, and hands-on practice.
+Complete some of **100 Days of MLOps Challenge** while documenting everything I learn through notes, labs, and hands-on practice.
 
 ## 📝 Notes
 
